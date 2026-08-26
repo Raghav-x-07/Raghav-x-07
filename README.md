@@ -1,42 +1,23 @@
 <div align="center">
 
-# 👋 Hey there, I'm Raghav!
+# 👋 Hey, I'm Raghav!
 
-### 🚀 Developer | 💻 Problem Solver | 🤖 AI & Full Stack Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Developer+in+the+Making+🚀;DSA+%7C+Full+Stack+%7C+AI+🤖;Learning.+Building.+Growing.+🔥" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality+🚀;Learning+DSA+and+Full+Stack+Development+💻;Exploring+AI%2C+Cloud+and+Modern+Technologies+🤖;Always+learning.+Always+building.+🔥" />
+<br>
 
-<br/>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBqZjV4d3I4em1scXoyMXd5dGZkN3VjNjFxd2g3YjQ0bGJwN2R1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-```cpp
-class Raghav {
-public:
-    string role = "Developer & Problem Solver";
-    string location = "India 🇮🇳";
-
-    vector<string> interests = {
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Data Structures & Algorithms",
-        "Cloud Computing"
-    };
-
-    string currentFocus = "Building projects and becoming a better developer 🚀";
-
-    void motto() {
-        cout << "Learn → Build → Fail → Improve → Repeat 🔥";
-    }
-};
+```text
+👨‍💻 Developer in progress
+🧠 Learning DSA and problem solving
+🌐 Exploring Full Stack Development
+🤖 Interested in AI and Generative AI
+☁️ Exploring Cloud Technologies
+🏆 Love building projects and joining hackathons
