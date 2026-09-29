@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=RAGHAV S&fontSize=80&fontColor=f093fb&animation=twinkling&fontAlignY=40&desc=Learn%20%E2%86%92%20Build%20%E2%86%92%20Fail%20%E2%86%92%20Improve%20%E2%86%92%20Repeat&descSize=18&descAlignY=65&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=RAGHAV&fontSize=80&fontColor=f093fb&animation=twinkling&fontAlignY=40&desc=Learn%20%E2%86%92%20Build%20%E2%86%92%20Fail%20%E2%86%92%20Improve%20%E2%86%92%20Repeat&descSize=18&descAlignY=65&descColor=ffffff"/>
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="90"/>
 
@@ -9,6 +9,10 @@
 </a>
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=764ba2&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=667eea"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&logo=github&color=f093fb"/>
 
 </div>
 
